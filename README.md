@@ -1,4 +1,4 @@
-USB MIDI Controller
+MIDI²C - MIDI²C Interface using Daisy-chainable I²C
 ===================
 
 Firmware for a USB MIDI controller that allows an arbitrary
